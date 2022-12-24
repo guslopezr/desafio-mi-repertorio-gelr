@@ -44,3 +44,6 @@ app.delete('/canciones/:id', (req, res) => {
 app.use('*', (req, res) => {
     res.status(404).send('Error, ruta desconocida')
 })
+
+//ruta para abrir
+//http://localhost:3000/

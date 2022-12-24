@@ -1,15 +1,24 @@
 {
-  "name": "desafio-alejandro2",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+    "name": "desafio-alejandro2",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Cristobal Diaz, Gustavo Lopez, David Pirul, Alejandro Quiñones",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/guslopezr/desafio-mi-repertorio-gelr.git"
+    },
+    "bugs": {
+        "url": "https://github.com/guslopezr/desafio-mi-repertorio-gelr/issues"
+    },
+    "homepage": "https://github.com/guslopezr/desafio-mi-repertorio-gelr#readme",
+    "description": ""
 }

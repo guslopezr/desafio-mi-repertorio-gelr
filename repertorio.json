@@ -1,1 +1,25 @@
-[]
+[{
+        "id": 7736,
+        "titulo": "Burn the witch",
+        "artista": "Radiohead",
+        "tono": "F#"
+    },
+    {
+        "id": 2844,
+        "titulo": "Comfortably Numb",
+        "artista": "Pink Floyd",
+        "tono": "Bm"
+    },
+    {
+        "id": 1600,
+        "titulo": "Deustchland",
+        "artista": "Rammstein",
+        "tono": "E"
+    },
+    {
+        "id": 7436,
+        "titulo": "Wish you were here",
+        "artista": "Pink Floyd",
+        "tono": "G"
+    }
+]
